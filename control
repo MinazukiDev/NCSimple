@@ -1,0 +1,10 @@
+Package: com.minazuki.ncsimple
+Name: NCSimple
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Make notifications almost the same as the background color!
+Depiction: https://minazukidev.github.io/html/NCSimple/index.html
+Maintainer: Minazuki <minazukidev@gmail.com>
+Author: Minazuki <minazukidev@gmail.com>
+Section: Tweaks
